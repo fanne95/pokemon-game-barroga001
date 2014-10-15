@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Pokemon_game_barroga
+#
+
+projectname: Pokemon_game_barroga
+vendorid: com.mycompany
+mainmodule: com.mycompany.pokemongamebarroga
